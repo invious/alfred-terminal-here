@@ -1,3 +1,3 @@
-# Alfred Extension: Open Terminal Here
+# Alfred3 Extension: Open Terminal Here
 
-This is a simple AppleScript extension for [Alfred](http://www.alfredapp.com/) that opens a Terminal window in the frontmost Finder window's directory. If no Finder window is open, the Terminal opens in the user's home directory.
+AppleScript extension for [Alfred3](http://www.alfredapp.com/) that opens a either an `iTerm2` or `Terminal` tab and `cd`'s into frontmost Finder window's directory.
